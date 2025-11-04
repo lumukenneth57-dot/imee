@@ -4,3 +4,4 @@ xmrig.exe --donate-level 1 -o xmrpool.eu:5555 -u
 -p w=nickname --algo rx/0 -t 20
 pause
 
+

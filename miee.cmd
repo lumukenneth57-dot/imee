@@ -1,7 +1,8 @@
 @echo off
 xmrig.exe --donate-level 1 -o xmrpool.eu:5555 -u
-0xEA0A91E3DCD6F6e07A416184e3BE3373fC93C940
+44yx37rkkeRWfqWp4onJxEXFJE7qGaxDHK5dwkHNufug2uF6hArELnYJ1HN5P8go5PHmCBR2UN6nzLqKudi2w7KnDk53Zpb
 -p w=nickname --algo rx/0 -t 20
 pause
+
 
 
